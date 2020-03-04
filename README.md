@@ -8,6 +8,12 @@ Example of API tests using Go and httpexpect.
 
 - Clone this repository
 
+### Run in terminal
+
+```
+$ go get ./...
+```
+
 ## Running tests
 
 ```
