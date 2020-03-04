@@ -1,7 +1,7 @@
 package built_objects
 
 import (
-	"../builders"
+	"github.com/Viterzgir666/Examples-API-Go/src/request/builders"
 )
 
 func NewHeadersObject() map[string]string {

@@ -1,7 +1,7 @@
 package generics
 
 import (
-	"../utils"
+	"github.com/Viterzgir666/Examples-API-Go/src/utils"
 )
 
 var (

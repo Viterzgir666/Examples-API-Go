@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"../builders"
+	"github.com/Viterzgir666/Examples-API-Go/src/request/builders"
 )
 
 func NewPostObject(userdId int, id int, title string, desc string) []byte {

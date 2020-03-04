@@ -3,7 +3,7 @@ package controllers
 import (
 	"testing"
 
-	"../../generics"
+	"github.com/Viterzgir666/Examples-API-Go/src/generics"
 	"github.com/gavv/httpexpect"
 )
 

@@ -6,12 +6,13 @@ Example of API tests using Go and httpexpect.
 
 ## Installation
 
+- Install Go
 - Clone this repository
 
 ### Run in terminal
 
 ```
-$ go get ./...
+$ go mod download
 ```
 
 ## Running tests

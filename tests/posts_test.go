@@ -4,10 +4,10 @@ import (
 	"net/http"
 	"testing"
 
-	"../src/generics"
-	"../src/request/built_objects"
-	"../src/request/controllers"
-	"../src/utils"
+	"github.com/Viterzgir666/Examples-API-Go/src/generics"
+	"github.com/Viterzgir666/Examples-API-Go/src/request/built_objects"
+	"github.com/Viterzgir666/Examples-API-Go/src/request/controllers"
+	"github.com/Viterzgir666/Examples-API-Go/src/utils"
 )
 
 func TestPosts(t *testing.T) {
